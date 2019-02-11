@@ -1,0 +1,6 @@
+lime
+matplotlib==3.0.2
+numpy==1.16.1
+pandas==0.24.1
+scikit-learn==0.20.2
+tensorflow==1.12.0

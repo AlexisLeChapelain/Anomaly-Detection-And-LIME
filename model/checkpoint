@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/az02234/Documents/Projet_AC/AnomalyDetectionAndLIME/model/auto_encoder_model.ckpt"
+all_model_checkpoint_paths: "/Users/az02234/Documents/Projet_AC/AnomalyDetectionAndLIME/model/auto_encoder_model.ckpt"
