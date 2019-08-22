@@ -3,6 +3,16 @@ data/
 python_env/
 data
 python_env
+model/
+
+.DS_Store
+src/.DS_Store
+*.idea/
+*.DS_Store
+
+
+# To avoid exposing company-specific data engineering
+src/DataEngineering/dataEngineeringRenault.py
 
 ## Defined in the template
 

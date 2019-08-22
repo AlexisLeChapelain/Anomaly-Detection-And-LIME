@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0d5bb33-14f0-47b3-9263-3ab2a1abca3b" name="Default" comment="" />
+    <list default="true" id="a0d5bb33-14f0-47b3-9263-3ab2a1abca3b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataEngineering/DataEngineering.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataEngineering/DataEngineeringRenault.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataEngineering.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineering.py">
+      <file leaf-file-name="DataEngineeringRenault.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineeringRenault.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+            <state relative-caret-position="226">
+              <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -26,7 +30,7 @@
       <file leaf-file-name="AutoEncoder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Model/AutoEncoder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="465">
               <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -38,7 +42,7 @@
       <file leaf-file-name="RestrictedBoltzmanMachine.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Model/RestrictedBoltzmanMachine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2055">
+            <state relative-caret-position="1980">
               <caret line="137" selection-start-line="137" selection-end-line="137" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -47,14 +51,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ModelStackingAndVisualization.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ModelStackingAndVisualization.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Model/ModelStackingAndVisualization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -86,6 +99,7 @@
         <option value="$PROJECT_DIR$/src/Model/AutoEncoder.py" />
         <option value="$PROJECT_DIR$/src/Model/RestrictedBoltzmanMachine.py" />
         <option value="$PROJECT_DIR$/src/Model/ModelStackingAndVisualization.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -99,6 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,33 +121,15 @@
               <item name="AnomalyDetectionAndLIME" type="b2602c69:ProjectViewProjectNode" />
               <item name="AnomalyDetectionAndLIME" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AnomalyDetectionAndLIME" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnomalyDetectionAndLIME" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AnomalyDetectionAndLIME" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnomalyDetectionAndLIME" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DataEngineering" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AnomalyDetectionAndLIME" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnomalyDetectionAndLIME" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="tasks.servers" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -185,7 +182,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/DataEngineering/DataEngineering.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/DataEngineering/DataEngineeringRenault.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -245,9 +242,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32978722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32978722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995272" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -275,7 +272,50 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineering.py">
+    <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineeringRenault.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/AutoEncoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/RestrictedBoltzmanMachine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Model/ModelStackingAndVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineeringRenault.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
@@ -315,7 +355,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineering.py">
+    <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineeringRenault.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
@@ -348,7 +388,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineering.py">
+    <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineeringRenault.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
@@ -373,9 +413,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore.sb-111d3400-P9N396" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/checkpoint">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -411,19 +448,9 @@
         <state relative-caret-position="-53" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineering.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="49" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Model/RestrictedBoltzmanMachine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2055">
+        <state relative-caret-position="1980">
           <caret line="137" selection-start-line="137" selection-end-line="137" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -433,7 +460,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Model/AutoEncoder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="465">
           <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -443,11 +470,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Model/ModelStackingAndVisualization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataEngineering/DataEngineeringRenault.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
